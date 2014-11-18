@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DEB7AABD-0FB8-49ED-9BAE-73B85271F181</string>
+	<key>IDESourceControlProjectName</key>
+	<string>0926新浪微博</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>740E8E7B-7277-48DF-B889-3236835500DD</key>
+		<string>https://github.com/vascon8/LXRefresh.git</string>
+		<key>A8CBD1F7-2B9C-4BD4-ADE9-9FA77E55FD51</key>
+		<string>https://github.com/vascon8/0926-.git</string>
+		<key>B9F4B349-893B-455E-9E63-0F39EC096FF7</key>
+		<string>https://github.com/vascon8/LXDictObject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>0926新浪微博.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>740E8E7B-7277-48DF-B889-3236835500DD</key>
+		<string>../../Other/Lib/LXRefresh/LXRefresh</string>
+		<key>A8CBD1F7-2B9C-4BD4-ADE9-9FA77E55FD51</key>
+		<string>../..</string>
+		<key>B9F4B349-893B-455E-9E63-0F39EC096FF7</key>
+		<string>../../Other/Lib/LXDictObject</string>
+		<key>CBE3DCF7-F8DF-4BF2-8193-6E655B3C8517</key>
+		<string>../../../../../../VMware Shared Folders/Ios/IOS就业视频传智/0512sina/代码/02-ItcastWeibo(下拉刷新)</string>
+		<key>FFBA6CB3-FD68-4C35-B5D6-871E75B1B9EE</key>
+		<string>../../../../../../VMware Shared Folders/Ios/IOS就业视频传智/0509/代码/03-ItcastWeibo(cell的美化)</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vascon8/0926-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A8CBD1F7-2B9C-4BD4-ADE9-9FA77E55FD51</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A8CBD1F7-2B9C-4BD4-ADE9-9FA77E55FD51</string>
+			<key>IDESourceControlWCCName</key>
+			<string>0926-</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9F4B349-893B-455E-9E63-0F39EC096FF7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LXDictObject</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>740E8E7B-7277-48DF-B889-3236835500DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LXRefresh</string>
+		</dict>
+	</array>
+</dict>
+</plist>
