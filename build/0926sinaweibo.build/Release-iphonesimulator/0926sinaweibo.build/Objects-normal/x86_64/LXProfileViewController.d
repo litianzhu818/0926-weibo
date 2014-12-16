@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Profile/LXProfileViewController.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Profile/LXProfileViewController.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Profile/LXProfileViewController.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Profile/LXProfileViewController.h

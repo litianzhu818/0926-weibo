@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.h

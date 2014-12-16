@@ -1,2 +1,2 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXUser.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXUser.h
+dependencies: /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXUser.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXUser.h

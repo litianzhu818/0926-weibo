@@ -1,7 +1,7 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFURLSessionManager.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFURLSessionManager.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFURLResponseSerialization.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFURLRequestSerialization.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFSecurityPolicy.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFNetworkReachabilityManager.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFURLSessionManager.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFURLSessionManager.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFURLResponseSerialization.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFURLRequestSerialization.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFSecurityPolicy.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFNetworkReachabilityManager.h

@@ -17,7 +17,7 @@
 @interface LXTopView ()
 
 @property (weak,nonatomic) UIImageView *iconView;
-@property (weak,nonatomic) UILabel *nameLabel;
+@property (weak,nonatomic) UIButton *nameLabel;
 @property (weak,nonatomic) UIImageView *vipView;
 @property (weak,nonatomic) UILabel *timeLabel;
 @property (weak,nonatomic) UILabel *sourceLabel;
@@ -50,10 +50,12 @@
     [self addSubview:iconView];
     self.iconView = iconView;
     
-    UILabel *nameLabel = [[UILabel alloc]init];
-    nameLabel.font = kStatusNameLabelFont;
+    UIButton *nameLabel = [[UIButton alloc]init];
+//    nameLabel.font = kStatusNameLabelFont;
+    nameLabel.titleLabel.font = kStatusNameLabelFont;
     [self addSubview:nameLabel];
     self.nameLabel = nameLabel;
+    [nameLabel addTarget:self action:@selector(clickedUser) forControlEvents:UIControlEventTouchUpInside];
     
     UIImageView *vipView = [[UIImageView alloc]init];
     [self addSubview:vipView];
@@ -102,7 +104,8 @@
     [self.iconView setImageWithURL:status.user.profile_image_url placeholderImage:[UIImage imageNamed:@"avatar_default_small"]];
     self.iconView.frame = _statusFrame.iconViewF;
     
-    self.nameLabel.text = status.user.name;
+//    self.nameLabel.text = status.user.name;
+    [self.nameLabel setTitle:status.user.name forState:UIControlStateNormal];
     self.nameLabel.frame = _statusFrame.nameLabelF;
     
     if (user.mbtype) {
@@ -112,14 +115,16 @@
             [self.vipView setImage:[UIImage imageWithName:name]];
             self.vipView.frame = _statusFrame.vipViewF;
             
-            self.nameLabel.textColor = [UIColor orangeColor];
+//            self.nameLabel.textColor = [UIColor orangeColor];
+            [self.nameLabel setTitleColor:[UIColor orangeColor] forState:UIControlStateNormal];
         }
     }
     else{
         //        self.vipView.frame = CGRectZero;
         self.vipView.hidden = YES;
         
-        self.nameLabel.textColor = [UIColor blackColor];
+//        self.nameLabel.textColor = [UIColor blackColor];
+        [self.nameLabel setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
     }
     
     self.timeLabel.text = status.created_at;
@@ -160,6 +165,12 @@
     }
     else{
         self.retweetView.hidden = YES;
+    }
+}
+- (void)clickedUser
+{
+    if ([self.delegate respondsToSelector:@selector(topView:didClickedStatus:)]) {
+        [self.delegate topView:self didClickedStatus:self.statusFrame.status];
     }
 }
 @end

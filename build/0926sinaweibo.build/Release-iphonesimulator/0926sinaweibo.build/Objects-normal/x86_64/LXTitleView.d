@@ -1,2 +1,3 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXTitleView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXTitleView.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXTitleView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXTitleView.h

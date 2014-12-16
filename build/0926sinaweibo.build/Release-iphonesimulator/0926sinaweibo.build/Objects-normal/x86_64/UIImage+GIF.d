@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/UIImage+GIF.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/UIImage+GIF.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/UIImage+GIF.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/UIImage+GIF.h

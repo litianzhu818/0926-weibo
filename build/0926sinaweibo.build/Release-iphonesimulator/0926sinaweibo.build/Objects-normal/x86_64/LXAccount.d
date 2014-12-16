@@ -1,2 +1,3 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccount.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccount.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccount.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccount.h

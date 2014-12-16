@@ -1,2 +1,2 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Category/UIImage+LX.m
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Category/UIImage+LX.m

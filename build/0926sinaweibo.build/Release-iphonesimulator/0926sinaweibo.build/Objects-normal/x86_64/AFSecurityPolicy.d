@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFSecurityPolicy.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/AFNetworking/AFSecurityPolicy.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFSecurityPolicy.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/AFNetworking/AFSecurityPolicy.h

@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshBaseView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshBaseView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshConst.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshBaseView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshBaseView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshConst.h

@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoToolbar.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoToolbar.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhoto.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoToolbar.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoToolbar.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhoto.h

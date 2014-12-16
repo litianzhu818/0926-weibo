@@ -11,7 +11,7 @@
 #import "LXToolBarView.h"
 #import "LXTopView.h"
 
-@interface LXStatusCell ()
+@interface LXStatusCell ()<LXTopViewDelegate>
 
 @property (weak,nonatomic) LXTopView *topView;
 @property (weak,nonatomic) LXToolBarView *toolBarView;
@@ -78,6 +78,7 @@
     LXTopView *topView = [[LXTopView alloc]init];
     [self.contentView addSubview:topView];
     self.topView = topView;
+    topView.delegate = self;
 }
 
 - (void)setupToolBar
@@ -87,5 +88,11 @@
     self.toolBarView = toolBarView;
     self.toolBarView.userInteractionEnabled = YES;
 }
-
+#pragma mark - topView delegate
+- (void)topView:(LXTopView *)topView didClickedStatus:(LXStatus *)status
+{
+    if ([self.delegate respondsToSelector:@selector(statusCell:didClickedStatus:)]) {
+        [self.delegate statusCell:self didClickedStatus:status];
+    }
+}
 @end

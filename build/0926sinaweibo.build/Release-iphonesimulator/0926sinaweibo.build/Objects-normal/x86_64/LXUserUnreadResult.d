@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXUserUnreadResult.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXUserUnreadResult.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXUserUnreadResult.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXUserUnreadResult.h

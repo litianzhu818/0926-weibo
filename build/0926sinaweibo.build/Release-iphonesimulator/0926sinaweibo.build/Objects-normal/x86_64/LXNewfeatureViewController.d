@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Newfeature/LXNewfeatureViewController.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Newfeature/LXNewfeatureViewController.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Newfeature/LXNewfeatureViewController.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Newfeature/LXNewfeatureViewController.h

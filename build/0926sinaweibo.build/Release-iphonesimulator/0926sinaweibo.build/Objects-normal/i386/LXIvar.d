@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/LXDictObject/LXIvar.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/LXDictObject/LXIvar.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/LXDictObject/LXIvar.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/LXDictObject/LXIvar.h

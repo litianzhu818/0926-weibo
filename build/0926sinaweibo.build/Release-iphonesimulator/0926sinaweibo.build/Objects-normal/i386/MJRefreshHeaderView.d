@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshHeaderView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshConst.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshHeaderView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshBaseView.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshHeaderView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshConst.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshHeaderView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshBaseView.h

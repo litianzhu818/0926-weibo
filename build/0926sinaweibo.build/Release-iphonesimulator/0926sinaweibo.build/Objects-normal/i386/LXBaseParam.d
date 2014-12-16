@@ -1,4 +1,5 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Main/Model/LXBaseParam.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Main/Model/LXBaseParam.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccountTool.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccount.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/Model/LXBaseParam.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/Model/LXBaseParam.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccountTool.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccount.h

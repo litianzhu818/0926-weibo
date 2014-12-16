@@ -1,13 +1,14 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXPhotoView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXPhotoView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXPhotoImageView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/UIImageView+WebCache.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageCompat.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageManager.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageOperation.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageDownloader.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDImageCache.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXPhotoBrowserViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoBrowser.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhoto.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXPhotoView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXPhotoView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXPhotoImageView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/UIImageView+WebCache.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageCompat.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageManager.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageOperation.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageDownloader.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDImageCache.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXPhotoBrowserViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoBrowser.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhoto.h

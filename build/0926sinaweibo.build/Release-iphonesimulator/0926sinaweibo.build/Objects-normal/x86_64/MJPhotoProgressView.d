@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoProgressView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoProgressView.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoProgressView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoProgressView.h

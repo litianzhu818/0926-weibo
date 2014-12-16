@@ -9,5 +9,9 @@
 #import "LXUser.h"
 
 @implementation LXUser
-
+- (void)setProfile_url:(NSString *)profile_url
+{
+    _profile_url = [NSString stringWithFormat:@"http://weibo.com/%@",profile_url];
+    
+}
 @end

@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDImageCache.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDImageCache.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageCompat.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageDecoder.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/UIImage+MultiFormat.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDImageCache.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDImageCache.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageCompat.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageDecoder.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/UIImage+MultiFormat.h

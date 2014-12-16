@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Category/UIButton+LX.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Category/UIButton+LX.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Category/UIButton+LX.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Category/UIButton+LX.h

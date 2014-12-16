@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageCompat.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageCompat.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageCompat.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageCompat.h

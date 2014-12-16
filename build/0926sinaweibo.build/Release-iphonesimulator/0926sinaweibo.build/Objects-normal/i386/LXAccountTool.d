@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccountTool.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccountTool.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccount.h
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccountTool.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccountTool.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccount.h

@@ -1,10 +1,10 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/0926新浪微博/LXAppDelegate.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/0926新浪微博/LXAppDelegate.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Tool/LXWeiboTool.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageManager.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageCompat.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageOperation.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageDownloader.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDImageCache.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/LXHomeViewController.h
+  /Users/xinliu/Documents/IOS/0926-weibo/0926新浪微博/LXAppDelegate.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/0926新浪微博/LXAppDelegate.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Tool/LXWeiboTool.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageManager.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageCompat.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageOperation.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageDownloader.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDImageCache.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/LXHomeViewController.h

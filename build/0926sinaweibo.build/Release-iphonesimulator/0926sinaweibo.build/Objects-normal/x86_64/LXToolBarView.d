@@ -1,3 +1,4 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXToolBarView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXToolBarView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatus.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXToolBarView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXToolBarView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatus.h

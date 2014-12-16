@@ -1,2 +1,3 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Compose/View/LXTextView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Compose/View/LXTextView.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Compose/View/LXTextView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Compose/View/LXTextView.h

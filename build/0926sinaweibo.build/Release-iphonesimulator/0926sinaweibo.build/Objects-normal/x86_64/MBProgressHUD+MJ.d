@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MBProgressHUD/MBProgressHUD+MJ.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MBProgressHUD/MBProgressHUD+MJ.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MBProgressHUD/MBProgressHUD.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MBProgressHUD/MBProgressHUD+MJ.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MBProgressHUD/MBProgressHUD+MJ.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MBProgressHUD/MBProgressHUD.h

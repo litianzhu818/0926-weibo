@@ -1,12 +1,13 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXReweetView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXReweetView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatusFrame.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatus.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXUser.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/UIImageView+WebCache.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageCompat.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageManager.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageOperation.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageDownloader.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDImageCache.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXPhotoView.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXReweetView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXReweetView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatusFrame.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatus.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXUser.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/UIImageView+WebCache.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageCompat.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageManager.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageOperation.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageDownloader.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDImageCache.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXPhotoView.h

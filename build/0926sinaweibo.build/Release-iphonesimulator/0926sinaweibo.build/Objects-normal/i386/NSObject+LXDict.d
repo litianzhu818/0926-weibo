@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/LXDictObject/NSObject+LXDict.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/LXDictObject/NSObject+LXDict.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/LXDictObject/LXIvar.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/LXDictObject/NSObject+LXDict.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/LXDictObject/NSObject+LXDict.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/LXDictObject/LXIvar.h

@@ -14,6 +14,10 @@
 @property (copy,nonatomic) NSString *name;
 @property (copy,nonatomic) NSURL *profile_image_url;
 @property (assign,nonatomic,getter = isVip) BOOL vip;
+@property (copy,nonatomic) NSString *url;
+@property (copy,nonatomic) NSString *profile_url;
+@property (copy,nonatomic) NSString *url_long;
+@property (copy,nonatomic) NSString *url_short ;
 
 
 @property (nonatomic, assign) int mbrank;

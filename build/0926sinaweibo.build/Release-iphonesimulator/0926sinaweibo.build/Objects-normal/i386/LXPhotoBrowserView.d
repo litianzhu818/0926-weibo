@@ -1,11 +1,11 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXPhotoBrowserView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXPhotoBrowserView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXLoadingView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/UIImageView+WebCache.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageCompat.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageManager.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageOperation.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDWebImageDownloader.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/SDWebImage/SDImageCache.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXPhotoBrowserView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXPhotoBrowserView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXLoadingView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/PhotoBrowser/LXPhotoBrowserModel.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/UIImageView+WebCache.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageCompat.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageManager.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageOperation.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDWebImageDownloader.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/SDWebImage/SDImageCache.h

@@ -8,9 +8,18 @@
 
 #import <UIKit/UIKit.h>
 @class LXStatusFrame;
+@class LXTopView;
+@class LXStatus;
+
+@protocol LXTopViewDelegate <NSObject>
+
+- (void)topView:(LXTopView *)topView didClickedStatus:(LXStatus *)status;
+
+@end
 
 @interface LXTopView : UIImageView
 
 @property (strong,nonatomic) LXStatusFrame *statusFrame;
+@property (weak,nonatomic) id<LXTopViewDelegate> delegate;
 
 @end

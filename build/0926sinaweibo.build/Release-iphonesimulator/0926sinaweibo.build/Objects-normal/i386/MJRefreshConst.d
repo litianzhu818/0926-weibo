@@ -1,2 +1,2 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJRefresh/MJRefreshConst.m
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJRefresh/MJRefreshConst.m

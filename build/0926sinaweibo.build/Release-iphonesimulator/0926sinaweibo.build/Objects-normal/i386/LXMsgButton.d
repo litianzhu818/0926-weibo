@@ -1,2 +1,3 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXMsgButton.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXMsgButton.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXMsgButton.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXMsgButton.h

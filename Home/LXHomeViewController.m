@@ -30,9 +30,11 @@
 #import "LXRefreshHeaderView.h"
 #import "LXRefreshFooterView.h"
 
+#import "LXUserWebViewController.h"
+
 #define kMsgButtonHeight 24.0
 
-@interface LXHomeViewController () <MJRefreshBaseViewDelegate,LXRefreshViewDelegate>
+@interface LXHomeViewController () <MJRefreshBaseViewDelegate,LXRefreshViewDelegate,LXStatusCellDelegate>
 {
     NSMutableArray *_dataList;
     void (^_updateDataBlock)();
@@ -380,6 +382,7 @@
 {
     LXStatusCell *cell = [LXStatusCell cellWithTableView:tableView];
     cell.statusFrame = _dataList[indexPath.row];
+    cell.delegate = self;
     
     return cell;
 }
@@ -409,6 +412,18 @@
     }
     return _msgButton;
 }
+#pragma mark - statusCell delegate
+- (void)statusCell:(LXStatusCell *)statusCell didClickedStatus:(LXStatus *)status
+{
+//    NSLog(@"%@ %@ %@ %@",status.user.profile_url,status.user.url,status.user.url_long,status.user.url_short );
+    if (!status.user.profile_url) return;
+    
+    LXUserWebViewController *webV = [[LXUserWebViewController alloc]init];
+    webV.url = status.user.profile_url;
+    webV.title = status.user.name;
+    [self.navigationController pushViewController:webV animated:YES];
+}
+
 #pragma mark - test
 - (void)test
 {

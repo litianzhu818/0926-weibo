@@ -1,3 +1,4 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatus.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatus.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Category/NSDate+LX.h
+dependencies: \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatus.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatus.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Category/NSDate+LX.h

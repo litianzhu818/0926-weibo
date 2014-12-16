@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatusFrame.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatusFrame.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXStatus.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/Model/LXUser.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/View/LXPhotoView.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatusFrame.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatusFrame.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXStatus.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/Model/LXUser.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/View/LXPhotoView.h

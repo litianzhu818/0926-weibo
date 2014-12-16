@@ -1,3 +1,3 @@
-dependencies: /Volumes/IOS2/IOS/sinaweibo/0926-/Main/View/LXTabBar.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Main/View/LXTabBar.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Main/View/LXTabBarButton.h
+dependencies: /Users/xinliu/Documents/IOS/0926-weibo/Main/View/LXTabBar.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/View/LXTabBar.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/View/LXTabBarButton.h

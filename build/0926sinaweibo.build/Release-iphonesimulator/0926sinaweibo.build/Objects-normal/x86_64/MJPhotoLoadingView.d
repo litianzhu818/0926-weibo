@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoLoadingView.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoLoadingView.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoBrowser.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Other/Lib/MJPhotoBrowser/MJPhotoProgressView.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoLoadingView.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoLoadingView.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoBrowser.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Other/Lib/MJPhotoBrowser/MJPhotoProgressView.h

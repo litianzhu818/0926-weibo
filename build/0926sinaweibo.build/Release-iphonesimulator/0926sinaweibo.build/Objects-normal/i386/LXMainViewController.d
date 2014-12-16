@@ -1,12 +1,12 @@
 dependencies: \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Main/LXMainViewController.m \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Main/LXMainViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Main/LXNavViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Home/LXHomeViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Profile/LXProfileViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Message/LXMessageViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Discover/LXDiscoverViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Compose/Controller/LXComposeViewController.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/Main/View/LXTabBar.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccountTool.h \
-  /Volumes/IOS2/IOS/sinaweibo/0926-/OAuth/Model/LXAccount.h
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/LXMainViewController.m \
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/LXMainViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/LXNavViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Home/LXHomeViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Profile/LXProfileViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Message/LXMessageViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Discover/LXDiscoverViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Compose/Controller/LXComposeViewController.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/Main/View/LXTabBar.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccountTool.h \
+  /Users/xinliu/Documents/IOS/0926-weibo/OAuth/Model/LXAccount.h
